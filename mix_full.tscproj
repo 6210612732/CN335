@@ -1,0 +1,2637 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "3.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "19.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\drone_in.wav",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220508T134109",
+      "sourceTracks" : [
+        {
+          "range" : [0, 28048980],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -13.9633938765361,
+          "peakLevel" : 0.966094970703125,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T150048.069322"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\fall.wav",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220508T134109",
+      "sourceTracks" : [
+        {
+          "range" : [0, 14963946],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -7.79687947193988,
+          "peakLevel" : 0.688812255859375,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T150048.082294"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\falling.wav",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220508T134109",
+      "sourceTracks" : [
+        {
+          "range" : [0, 5162132],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -19.839101818105,
+          "peakLevel" : 0.989990234375,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T150048.093296"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\gun.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220508T134109",
+      "sourceTracks" : [
+        {
+          "range" : [0, 18808250],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -18.5125562787692,
+          "peakLevel" : 0.962040603160858,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T150048.100296"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\gun_pump.wav",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220508T134109",
+      "sourceTracks" : [
+        {
+          "range" : [0, 3796826],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -1.79769313486232e+308,
+          "peakLevel" : 0.899169921875,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T150048.112299"
+      }
+    },
+    {
+      "id" : 6,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\intro.mp4",
+      "rect" : [0, 0, 1366, 768],
+      "lastMod" : "20220508T134109",
+      "sourceTracks" : [
+        {
+          "range" : [0, 239000000],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1366, 768],
+          "sampleRate" : "10000000/333333",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 239000000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 16,
+          "numChannels" : 2,
+          "integratedLUFS" : -9.3579184907787,
+          "peakLevel" : 0.987332701683044,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T150048.461377"
+      }
+    },
+    {
+      "id" : 7,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\wh1.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220508T134109",
+      "sourceTracks" : [
+        {
+          "range" : [0, 12960000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -6.5766705884965,
+          "peakLevel" : 0.980156004428864,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T150048.464378"
+      }
+    },
+    {
+      "id" : 8,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\wh2.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220508T134109",
+      "sourceTracks" : [
+        {
+          "range" : [0, 12480000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -8.32157366384365,
+          "peakLevel" : 0.98592871427536,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T150048.467379"
+      }
+    },
+    {
+      "id" : 9,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\use\\mix.mp4",
+      "rect" : [0, 0, 1920, 1080],
+      "lastMod" : "20220508T145741",
+      "sourceTracks" : [
+        {
+          "range" : [0, 900232640],
+          "type" : 0,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1080],
+          "sampleRate" : "5000000/166833",
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T150056.398730"
+      }
+    },
+    {
+      "id" : 10,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\Boom-PNG-Clipart-Background.png",
+      "rect" : [0, 0, 960, 540],
+      "lastMod" : "20220508T151621",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 960, 540],
+          "sampleRate" : 0,
+          "bitDepth" : 8,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T151653.368352"
+      }
+    },
+    {
+      "id" : 11,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\bullet.png",
+      "rect" : [0, 0, 880, 233],
+      "lastMod" : "20220508T151919",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 880, 233],
+          "sampleRate" : 0,
+          "bitDepth" : 32,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T151930.684121"
+      }
+    },
+    {
+      "id" : 12,
+      "src" : "C:\\Users\\memory\\Desktop\\210\\animation\\asset\\sneaker-shoe-on-concrete-floor-medium-pace-1-www.FesliyanStudios.com.mp3",
+      "rect" : [0, 0, 0, 0],
+      "lastMod" : "20220508T155105",
+      "sourceTracks" : [
+        {
+          "range" : [0, 396480000],
+          "type" : 2,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 48000,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -33.9640603698203,
+          "peakLevel" : 0.982347726821899,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220508T155122.854496"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 13,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "duration" : 69.1666666666667,
+          "title" : "",
+          "type" : "",
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 14,
+                    "_type" : "VMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "mix"
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 97,
+                    "duration" : 164,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 164,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "VMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "mix"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -0.000174195954514289,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -140.000043549005,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.4999997402998,
+                            "duration" : 30
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.50000035522775,
+                            "duration" : 30
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 261,
+                    "duration" : 52,
+                    "mediaStart" : 164,
+                    "mediaDuration" : 52,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 201,
+                          "duration" : 30,
+                          "range" : [ 171, 30]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "mix",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -0.000174195954514289,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : -2.45782696495569e-13,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -140.000043549005,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 7.99990967608553,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.4999997402998,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 1.50000006249141,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.50000035522775,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 1.50000052036073,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 17,
+                          "_type" : "VMFile",
+                          "src" : 9,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "mix"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 1786,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 1786,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "clipSpeedAttribute" : false,
+                            "default-rotation2" : 0.0,
+                            "default-scale0" : 1.0,
+                            "default-scale1" : 1.0,
+                            "default-translation0" : 0.0,
+                            "default-translation1" : 0.0
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 18,
+                          "_type" : "IMFile",
+                          "src" : 9,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 0,
+                          "attributes" : {
+                            "ident" : "mix"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1786,
+                          "duration" : 106,
+                          "mediaStart" : 1785,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 19,
+                          "_type" : "VMFile",
+                          "src" : 9,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "mix"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1892,
+                          "duration" : 914,
+                          "mediaStart" : 1786,
+                          "mediaDuration" : 914,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "clipSpeedAttribute" : false,
+                            "default-rotation2" : 0.0,
+                            "default-scale0" : 1.0,
+                            "default-scale1" : 1.0,
+                            "default-translation0" : 0.0,
+                            "default-translation1" : 0.0
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 313,
+                    "duration" : 1526,
+                    "mediaStart" : 216,
+                    "mediaDuration" : 1526,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 201,
+                          "duration" : 30,
+                          "range" : [ 171, 30]
+                        },
+                        {
+                          "endTime" : 227,
+                          "duration" : 26,
+                          "range" : [ 201, 26]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 20,
+                    "_type" : "VMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "mix"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -0.000174195954514289,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : -2.45782696495569e-13,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -140.000043549005,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 7.99990967608553,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.4999997402998,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 1.50000006249141,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.50000035522775,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 1.50000052036073,
+                            "duration" : 26
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1839,
+                    "duration" : 3,
+                    "mediaStart" : 1774,
+                    "mediaDuration" : 12,
+                    "scalar" : "1/4",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 201,
+                          "duration" : 30,
+                          "range" : [ 171, 30]
+                        },
+                        {
+                          "endTime" : 227,
+                          "duration" : 26,
+                          "range" : [ 201, 26]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 21,
+                    "_type" : "VMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "mix"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -2.45782696495569e-13,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 7.99990967608553,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.50000006249141,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.50000052036073,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1842,
+                    "duration" : 13,
+                    "mediaStart" : 1786,
+                    "mediaDuration" : 66,
+                    "scalar" : "13/66",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 22,
+                    "_type" : "VMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "mix"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -0.000174195954514289,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : -2.45782696495569e-13,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -140.000043549005,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 7.99990967608553,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.4999997402998,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 1.50000006249141,
+                            "duration" : 26
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.50000035522775,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 1.50000052036073,
+                            "duration" : 26
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1855,
+                    "duration" : 45,
+                    "mediaStart" : 1893,
+                    "mediaDuration" : 45,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 201,
+                          "duration" : 30,
+                          "range" : [ 171, 30]
+                        },
+                        {
+                          "endTime" : 227,
+                          "duration" : 26,
+                          "range" : [ 201, 26]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 23,
+                    "_type" : "StitchedMedia",
+                    "minMediaStart" : 0,
+                    "attributes" : {
+                      "ident" : "mix",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -0.000174195954514289,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : -2.45782696495569e-13,
+                            "duration" : 26
+                          },
+                          {
+                            "endTime" : 1958,
+                            "time" : 1930,
+                            "value" : 5.80653498398891e-05,
+                            "duration" : 28
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : -140.000043549005,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 7.99990967608553,
+                            "duration" : 26
+                          },
+                          {
+                            "endTime" : 1958,
+                            "time" : 1930,
+                            "value" : 5.33330150492464,
+                            "duration" : 28
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.4999997402998,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 1.50000006249141,
+                            "duration" : 26
+                          },
+                          {
+                            "endTime" : 1958,
+                            "time" : 1930,
+                            "value" : 1.00000012230726,
+                            "duration" : 28
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "keyframes" : [
+                          {
+                            "endTime" : 201,
+                            "time" : 171,
+                            "value" : 1.50000035522775,
+                            "duration" : 30
+                          },
+                          {
+                            "endTime" : 227,
+                            "time" : 201,
+                            "value" : 1.50000052036073,
+                            "duration" : 26
+                          },
+                          {
+                            "endTime" : 1958,
+                            "time" : 1930,
+                            "value" : 1.00000026626082,
+                            "duration" : 28
+                          }
+                        ]
+                      },
+                      "cursorOpacity" : 1.0,
+                      "cursorScale" : 1.0
+                    },
+                    "medias" : [
+                        {
+                          "id" : 24,
+                          "_type" : "VMFile",
+                          "src" : 9,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "mix"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 1999,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 1999,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "clipSpeedAttribute" : false,
+                            "default-rotation2" : 0.0,
+                            "default-scale0" : 1.0,
+                            "default-scale1" : 1.0,
+                            "default-translation0" : 0.0,
+                            "default-translation1" : 0.0
+                          },
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 25,
+                          "_type" : "IMFile",
+                          "src" : 9,
+                          "trackNumber" : 0,
+                          "trimStartSum" : 0,
+                          "attributes" : {
+                            "ident" : "mix"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 1999,
+                          "duration" : 60,
+                          "mediaStart" : 1998,
+                          "mediaDuration" : 1,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                        {
+                          "id" : 26,
+                          "_type" : "VMFile",
+                          "src" : 9,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "mix"
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 2059,
+                          "duration" : 701,
+                          "mediaStart" : 1999,
+                          "mediaDuration" : 701,
+                          "scalar" : 1,
+                          "metadata" : {
+                            "clipSpeedAttribute" : false,
+                            "default-rotation2" : 0.0,
+                            "default-scale0" : 1.0,
+                            "default-scale1" : 1.0,
+                            "default-translation0" : 0.0,
+                            "default-translation1" : 0.0
+                          },
+                          "animationTracks" : {
+
+                          }
+                        }
+                    ],
+                    "effects" : [
+
+                    ],
+                    "start" : 1900,
+                    "duration" : 175,
+                    "mediaStart" : 1938,
+                    "mediaDuration" : 175,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 201,
+                          "duration" : 30,
+                          "range" : [ 171, 30]
+                        },
+                        {
+                          "endTime" : 227,
+                          "duration" : 26,
+                          "range" : [ 201, 26]
+                        },
+                        {
+                          "endTime" : 1958,
+                          "duration" : 28,
+                          "range" : [ 1930, 28]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "FadeThroughBlack",
+                    "duration" : 53,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 23
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 27,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text-rectangle",
+                      "style" : "basic",
+                      "fill-color-blue" : 1.0,
+                      "fill-color-green" : 1.0,
+                      "fill-color-opacity" : 1.0,
+                      "fill-color-red" : 1.0,
+                      "height" : 1079.99999999994,
+                      "line-spacing" : 0.0,
+                      "stroke-color-blue" : 0.56078431372549,
+                      "stroke-color-green" : 0.686274509803922,
+                      "stroke-color-opacity" : 1.0,
+                      "stroke-color-red" : 0.0196078431372549,
+                      "stroke-width" : 2.0,
+                      "tail-x" : -532.65306122449,
+                      "tail-y" : 334.081632653103,
+                      "width" : 1919.9999999998,
+                      "word-wrap" : 1.0,
+                      "fill-style" : "solid",
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "stroke-style" : "solid",
+                      "text" : "",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 0.266666666666667,
+                        "color-green" : 0.231372549019608,
+                        "color-opacity" : 1.0,
+                        "color-red" : 0.184313725490196,
+                        "size" : 64.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"strikethrough","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontWeight","rangeEnd":1,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fgColor","rangeEnd":1,"rangeStart":0,"value":"(47,59,68,255)","valueType":"color"},{"name":"fontSize","rangeEnd":1,"rangeStart":0,"value":64,"valueType":"double"},{"name":"fontName","rangeEnd":1,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontItalic","rangeEnd":1,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -2.12821760214865e-10,
+                      "translation1" : 5.43423084309325e-11
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 109,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 109,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 28,
+                    "_type" : "AMFile",
+                    "src" : 12,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "sneaker-shoe-on-concrete-floor-medium-pace-1-www.FesliyanStudios.com",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 491,
+                    "duration" : 21,
+                    "mediaStart" : 85,
+                    "mediaDuration" : 21,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 29,
+                    "_type" : "AMFile",
+                    "src" : 12,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "sneaker-shoe-on-concrete-floor-medium-pace-1-www.FesliyanStudios.com",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 540,
+                    "duration" : 12,
+                    "mediaStart" : 66,
+                    "mediaDuration" : 12,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 30,
+                    "_type" : "AMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "wh1",
+                      "gain" : 0.75,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 943,
+                    "duration" : 23,
+                    "mediaStart" : 6,
+                    "mediaDuration" : 23,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 31,
+                    "_type" : "AMFile",
+                    "src" : 8,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "wh2",
+                      "gain" : 0.75,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 966,
+                    "duration" : 15,
+                    "mediaStart" : 6,
+                    "mediaDuration" : 15,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 32,
+                    "_type" : "AMFile",
+                    "src" : 8,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "wh2",
+                      "gain" : 0.75,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 981,
+                    "duration" : 1,
+                    "mediaStart" : 21,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 33,
+                    "_type" : "AMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "wh1",
+                      "gain" : 0.75,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 982,
+                    "duration" : 14,
+                    "mediaStart" : 15,
+                    "mediaDuration" : 14,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 34,
+                    "_type" : "AMFile",
+                    "src" : 8,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "wh2",
+                      "gain" : 0.75,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 996,
+                    "duration" : 15,
+                    "mediaStart" : 6,
+                    "mediaDuration" : 15,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 35,
+                    "_type" : "AMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "wh1",
+                      "gain" : 0.75,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1011,
+                    "duration" : 14,
+                    "mediaStart" : 15,
+                    "mediaDuration" : 14,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 36,
+                    "_type" : "AMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "falling",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1340,
+                    "duration" : 15,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 15,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 37,
+                    "_type" : "AMFile",
+                    "src" : 12,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "sneaker-shoe-on-concrete-floor-medium-pace-1-www.FesliyanStudios.com",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1402,
+                    "duration" : 8,
+                    "mediaStart" : 98,
+                    "mediaDuration" : 8,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 38,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "basic",
+                      "height" : 104.000090323938,
+                      "line-spacing" : 0.0,
+                      "width" : 298.000000001574,
+                      "word-wrap" : 1.0,
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "Antivirus+",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontItalic","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":10,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontSize","rangeEnd":10,"rangeStart":0,"value":32,"valueType":"double"},{"name":"fgColor","rangeEnd":10,"rangeStart":0,"value":"(184,255,107,255)","valueType":"color"},{"name":"fontName","rangeEnd":10,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"kerning","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"double"},{"name":"strikethrough","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : 303.000000000912,
+                      "translation1" : 59.9999102904808
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1642,
+                    "duration" : 167,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 167,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 39,
+                    "_type" : "IMFile",
+                    "src" : 11,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 24,
+                    "attributes" : {
+                      "ident" : "bullet"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 217.189655137963,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 33,
+                            "time" : 24,
+                            "value" : 108.856321804665,
+                            "duration" : 9
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -10.0977011587121,
+                        "interp" : "eioe"
+                      },
+                      "rotation2" : {
+                        "type" : "double",
+                        "defaultValue" : 3.14159265358979,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0432905158635025,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0580632431358655,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1832,
+                    "duration" : 9,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 33,
+                          "duration" : 9,
+                          "range" : [ 24, 9]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 40,
+                    "_type" : "IMFile",
+                    "src" : 11,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 24,
+                    "attributes" : {
+                      "ident" : "bullet"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 217.189655137963,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 33,
+                            "time" : 24,
+                            "value" : 108.856321804665,
+                            "duration" : 9
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -10.0977011587121,
+                        "interp" : "eioe"
+                      },
+                      "rotation2" : {
+                        "type" : "double",
+                        "defaultValue" : 3.14159265358979,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0432905158635025,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0580632431358655,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1846,
+                    "duration" : 9,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 33,
+                          "duration" : 9,
+                          "range" : [ 24, 9]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 41,
+                    "_type" : "AMFile",
+                    "src" : 12,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "sneaker-shoe-on-concrete-floor-medium-pace-1-www.FesliyanStudios.com",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1954,
+                    "duration" : 21,
+                    "mediaStart" : 85,
+                    "mediaDuration" : 21,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 27
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 17,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 27
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 42,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "basic",
+                      "height" : 596.893700787633,
+                      "line-spacing" : 0.0,
+                      "width" : 1042.0,
+                      "word-wrap" : 1.0,
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "Stickman  ",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 96.0,
+                        "tracking" : 0.0,
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"strikethrough","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":10,"rangeStart":0,"value":"(251,164,138,255)","valueType":"color"},{"name":"fontWeight","rangeEnd":10,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontSize","rangeEnd":10,"rangeStart":0,"value":198,"valueType":"double"},{"name":"fontName","rangeEnd":10,"rangeStart":0,"value":"Montserrat","valueType":"string"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -312.336734694342,
+                      "translation1" : 124.520396148513
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 22,
+                    "duration" : 87,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 87,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 43,
+                    "_type" : "IMFile",
+                    "src" : 11,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 24,
+                    "attributes" : {
+                      "ident" : "bullet"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 217.189655137963,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 33,
+                            "time" : 24,
+                            "value" : 108.856321804665,
+                            "duration" : 9
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -10.0977011587121,
+                        "interp" : "eioe"
+                      },
+                      "rotation2" : {
+                        "type" : "double",
+                        "defaultValue" : 3.14159265358979,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0432905158635025,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0580632431358655,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1836,
+                    "duration" : 9,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 33,
+                          "duration" : 9,
+                          "range" : [ 24, 9]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "id" : 44,
+                    "_type" : "IMFile",
+                    "src" : 11,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 24,
+                    "attributes" : {
+                      "ident" : "bullet"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 217.189655137963,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 33,
+                            "time" : 24,
+                            "value" : 108.856321804665,
+                            "duration" : 9
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -10.0977011587121,
+                        "interp" : "eioe"
+                      },
+                      "rotation2" : {
+                        "type" : "double",
+                        "defaultValue" : 3.14159265358979,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0432905158635025,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0580632431358655,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1850,
+                    "duration" : 9,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 33,
+                          "duration" : 9,
+                          "range" : [ 24, 9]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 42
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 17,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 42
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                  {
+                    "id" : 45,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "basic",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 503.627109111557,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 1202.57142857132,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "Stuck Phone  ",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 96.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Montserrat",
+                        "weight" : "Regular"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"strikethrough","rangeEnd":13,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":13,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":13,"rangeStart":0,"value":"(196,122,99,255)","valueType":"color"},{"name":"underline","rangeEnd":13,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":13,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":13,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontName","rangeEnd":13,"rangeStart":0,"value":"Montserrat","valueType":"string"},{"name":"fontSize","rangeEnd":13,"rangeStart":0,"value":170,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 289.163256586648,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -173.793158407228,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 42,
+                    "duration" : 67,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 67,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 46,
+                    "_type" : "AMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "fall",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 308,
+                    "duration" : 41,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 41,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 47,
+                    "_type" : "AMFile",
+                    "src" : 5,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "gun_pump",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1811,
+                    "duration" : 11,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 11,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 48,
+                    "_type" : "IMFile",
+                    "src" : 11,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 24,
+                    "attributes" : {
+                      "ident" : "bullet"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 217.189655137963,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 33,
+                            "time" : 24,
+                            "value" : 108.856321804665,
+                            "duration" : 9
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -10.0977011587121,
+                        "interp" : "eioe"
+                      },
+                      "rotation2" : {
+                        "type" : "double",
+                        "defaultValue" : 3.14159265358979,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0432905158635025,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0580632431358655,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1841,
+                    "duration" : 9,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-rotation2" : 0.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 33,
+                          "duration" : 9,
+                          "range" : [ 24, 9]
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 45
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 17,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 45
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 4,
+                "medias" : [
+                  {
+                    "id" : 49,
+                    "_type" : "AMFile",
+                    "src" : 6,
+                    "trackNumber" : 1,
+                    "attributes" : {
+                      "ident" : "intro",
+                      "gain" : 0.75,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 92,
+                    "duration" : 103,
+                    "mediaStart" : 447,
+                    "mediaDuration" : 103,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 50,
+                    "_type" : "AMFile",
+                    "src" : 6,
+                    "trackNumber" : 1,
+                    "attributes" : {
+                      "ident" : "intro",
+                      "gain" : 0.75,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 195,
+                    "duration" : 51,
+                    "mediaStart" : 567,
+                    "mediaDuration" : 51,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 51,
+                    "_type" : "IMFile",
+                    "src" : 10,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "Boom-PNG-Clipart-Background"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : 82.6510444111948,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 16,
+                            "time" : 0,
+                            "value" : 72.1880814485511,
+                            "duration" : 16
+                          }
+                        ]
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -12.759077376396,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 16,
+                            "time" : 0,
+                            "value" : -32.2266523175164,
+                            "duration" : 16
+                          }
+                        ]
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0768851372313267,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 16,
+                            "time" : 0,
+                            "value" : 0.294284828589884,
+                            "duration" : 16
+                          }
+                        ]
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0768851372313268,
+                        "interp" : "eioe",
+                        "keyframes" : [
+                          {
+                            "endTime" : 16,
+                            "time" : 0,
+                            "value" : 0.294284828589885,
+                            "duration" : 16
+                          }
+                        ]
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 1839,
+                    "duration" : 16,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0
+                    },
+                    "animationTracks" : {
+                      "visual" : [
+                        {
+                          "endTime" : 16,
+                          "duration" : 16,
+                          "range" : [ 0, 16]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 5,
+                "medias" : [
+                  {
+                    "id" : 52,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "gun",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1832,
+                    "duration" : 6,
+                    "mediaStart" : 2,
+                    "mediaDuration" : 7,
+                    "scalar" : "6/7",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 53,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "gun",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1838,
+                    "duration" : 6,
+                    "mediaStart" : 2,
+                    "mediaDuration" : 7,
+                    "scalar" : "6/7",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 54,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "gun",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1844,
+                    "duration" : 6,
+                    "mediaStart" : 2,
+                    "mediaDuration" : 7,
+                    "scalar" : "6/7",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 55,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "gun",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1850,
+                    "duration" : 6,
+                    "mediaStart" : 2,
+                    "mediaDuration" : 7,
+                    "scalar" : "6/7",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 56,
+                    "_type" : "AMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "attributes" : {
+                      "ident" : "gun",
+                      "gain" : 1.0,
+                      "mixToMono" : false
+                    },
+                      "channelNumber" : "0,1",
+                    "effects" : [
+
+                    ],
+                    "start" : 1856,
+                    "duration" : 6,
+                    "mediaStart" : 2,
+                    "mediaDuration" : 7,
+                    "scalar" : "6/7",
+                    "metadata" : {
+                      "clipSpeedAttribute" : true
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 6,
+                "medias" : [
+                ]
+              },
+              {
+                "trackIndex" : 7,
+                "medias" : [
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "",
+    "CanvasZoom" : 50,
+    "Date" : "2022-05-08 10:00:36 PM",
+    "Fit" : 0,
+    "IsAutoSave" : "0",
+    "Language" : "ENU",
+    "ProfileName" : "MP4 only (up to 1080p)",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "Untitled Project",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "Basic",
+    "canvasDetached" : "False",
+    "canvasPositionHeight" : "0",
+    "canvasPositionLeft" : "0",
+    "canvasPositionTop" : "0",
+    "canvasPositionWidth" : "0"
+  }
+}
